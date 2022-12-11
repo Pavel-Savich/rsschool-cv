@@ -1,3 +1,3 @@
-# Start task
-# add basic
-# update
+# Pavel Savich
+# Start learning
+# JS FE .
