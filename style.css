@@ -17,6 +17,7 @@ line-height: 50px;
     margin-left: 10%;
     background: rgb(218, 217, 228);
     border: 0px solid green;
+    border-top: 20px solid rgb(19, 9, 75);
     border-bottom: 20px solid rgb(19, 9, 75);
     padding: 2px;
     float: left;
@@ -26,6 +27,7 @@ line-height: 50px;
 }
 
 #name {
+    font-family: 'Roboto', sans-serif;
     width: 80%;
     height: 20%;
     margin-left: 10%;
@@ -107,10 +109,10 @@ line-height: 50px;
 
 #footer {
     width: 80%;
-    height: 50px;
+    height: 70px;
     margin-left: 10%;
     background: rgb(218, 217, 228);
-    border-bottom: 20px rgb(19, 9, 75);
+    border-top: 20px solid rgb(19, 9, 75);
     padding: 2px;
     float: left;
     text-align: left;
@@ -207,4 +209,30 @@ line-height: 50px;
     text-align: justify;
     margin-bottom: 20px;
     line-height: 20px;
+}
+
+#list-header {
+    list-style-type: none;
+}
+
+#list-header li {
+    display: inline-block;
+}
+
+#avatar {
+        margin-left: 40%;
+}
+
+#rs {
+    float: right;
+}
+
+#git {
+    float: left;
+    margin-left: 40%;
+}
+
+#date {
+    float: left;
+    margin-left: -40%;
 }
