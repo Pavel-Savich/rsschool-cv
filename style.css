@@ -1,1 +1,238 @@
-# pattern for task number 3
+#header {
+width: 80%;
+height: 50px;
+margin-left: 10%;
+background: rgb(218, 217, 228);
+border-bottom: 20px solid rgb(19, 9, 75);
+padding: 2px;
+float: left;
+text-align: left;
+margin-bottom: 20px;
+line-height: 50px;
+}
+
+#main {
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border: 0px solid green;
+    border-top: 20px solid rgb(19, 9, 75);
+    border-bottom: 20px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: left;
+    margin-bottom: 20px;
+    line-height: 50px;
+}
+
+#name {
+    font-family: 'Roboto', sans-serif;
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom:5px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 11px;
+}
+
+#left {
+    width: 40%;
+    height: 80%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 0px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+#titl_education  {
+    width:80%;
+    height: 5%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+#education {
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#titl_skills {
+    width:80%;
+    height: 5%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+#skills {
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+
+
+#footer {
+    width: 80%;
+    height: 70px;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-top: 20px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: left;
+    margin-bottom: 20px;
+    line-height: 50px;
+}
+
+#right {
+    width: 39.3%;
+    height: 80%;
+    margin-left: 0%;
+    background: rgb(218, 217, 228);
+    border-bottom: 0px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+#titl_work  {
+    width:80%;
+    height: 5%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+#work {
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#titl_contacts  {
+    width:80%;
+    height: 5%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 2px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+#contacts {
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 19.8px;
+}
+
+#titl_summary  {
+    width:80%;
+    height: 5%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 0px;
+    float: left;
+    text-align: center;
+    margin-bottom: 0px;
+    line-height: 20px;
+}
+
+#summary {
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    background: rgb(218, 217, 228);
+    border-bottom: 5px solid rgb(19, 9, 75);
+    padding: 0px;
+    float: left;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#list-header {
+    list-style-type: none;
+}
+
+#list-header li {
+    display: inline-block;
+}
+
+#avatar {
+        margin-left: 40%;
+}
+
+#rs {
+    float: right;
+}
+
+#git {
+    float: left;
+    margin-left: 40%;
+}
+
+#date {
+    float: left;
+    margin-left: -40%;
+}
